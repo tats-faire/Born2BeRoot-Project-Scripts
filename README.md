@@ -5,7 +5,7 @@
 This repository contains scripts for the Born2BeRoot project, which aims to introduce users to the world of virtualization and system administration. Born2BeRoot is part of the 42 school curriculum.
 
 ## Table of Contents
-1. [Introduction](#Introduction-to-B2BR)
+1. [Introduction to B2BR](#Introduction-to-B2BR)
 2. [Mandatory Part](#Mandatory-Part)
 3. [Bonus Part](#Bonus-Part)
 4. [Submission and Peer-Evaluation](#Submission-and-Peer-Evaluation)
