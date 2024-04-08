@@ -5,13 +5,13 @@
 This repository contains scripts for the Born2BeRoot project, which aims to introduce users to the world of virtualization and system administration. Born2BeRoot is part of the 42 school curriculum.
 
 ## Table of Contents
-1. [Introduction](#Introduction)
+1. [Introduction](#Introduction-to-B2BR)
 2. [Mandatory Part](#Mandatory-Part)
 3. [Bonus Part](#Bonus-Part)
 4. [Submission and Peer-Evaluation](#Submission-and-Peer-Evaluation)
-5. [Files](#Files)
+5. [Scripts](#Scripts)
 
-## Introduction
+## Introduction to B2BR
 
 The Born2BeRoot project entails the setup of a minimal server environment. The virtual machine (VM) won't have a Graphical User Interface (GUI) except the terminal and will have security measures in place. Participants must adhere to specific rules outlined in the project description. 
 
@@ -37,7 +37,7 @@ I chose keyboard-configuration as my custom service, since this package simplifi
 
 Finishing the project requires submitting a repository with only a signature.txt file containing the signature of the virtual machine's virtual disk. This is followed by three 1-hour evaluations where the server is tested and where the examinee needs to explain every step of their setup.
 
-## Files
+## Scripts
 
 * monitoring.sh: Script for displaying system information.
 * sleep.sh: Script for setting the execution of monitoring.sh to the correct time.
