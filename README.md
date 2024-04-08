@@ -29,7 +29,7 @@ The mandatory part of the project involves setting up a VM with specific require
 
 ## Bonus Part
 
-The bonus part offers additional tasks: setting up partitions correctly, creating a functional WordPress website, and setting up a custom service. Bonus tasks are evaluated only if the mandatory part is completed perfectly.
+The bonus part offers additional tasks: setting up partitions in a particular structure, creating a functional WordPress website, and setting up a custom service. Bonus tasks are evaluated only if the mandatory part is completed perfectly.
 
 I chose keyboard-configuration as my custom service, since this package simplifies the process of changing the keyboard layout in case evaluators have different preferences.
 
